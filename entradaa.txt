@@ -1,0 +1,81 @@
+#* Hola !@#$%^&*()_+<>?"{}
+sdfsdfdsf
+sdfSDDDDDDDDdsfs
+fsd
+
+f *#
+
+#var HOLA ||
+
+
+main () {
+
+var vaarriable =4<2;
+james = ++
+    iF ( (james1 || james3) && james2 )
+    { 
+
+    } else {
+
+    }
+
+
+    iF ( (james1 || james3) && james2 )
+    { 
+
+    } else if (james1 =! james3 )  {
+
+    }
+
+
+    iF ( (james1 || james3) && james2 )
+    { 
+
+    } else if (james1 =! james3 )  {
+
+    } else if (james1 =! james3 )  {
+
+    } else if (james1 =! james3 )  {
+
+    }
+
+
+
+    iF ( (james1 || james3) && james2 )
+    { 
+
+    } else if (james1 =! james3 )  {
+
+    } else if (james1 =! james3 )  {
+
+    } else  {
+
+    }
+
+    switch( edad <= edaf ) { 
+        Case 10:
+        
+        Case 20:
+        break
+        Case 30:
+        break
+        Case 40:
+        
+        break
+        Default:
+        break;
+    }
+
+
+    while (x+100){
+
+        }
+
+
+
+    #Ejemplo 1: declaración dentro del for con incremento 
+    for ( var i=0; i<3; (va1+va2)++ ){
+
+    }    
+
+}
